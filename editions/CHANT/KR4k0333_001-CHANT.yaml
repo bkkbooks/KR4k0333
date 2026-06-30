@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0333/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陸機晉紀晉書限斷議三祖實終為臣故書為臣之事不可如傳此實錄之謂也而名為帝王故自帝王之籍不可以不稱紀則追王之義初學記二十一文帝文帝勢崇于三分而身終乎北面雖曰未暇王業已固矣初學記九王濬之在巴郡也夢懸四刀于其壁上甚惡之濬問主簿李毅毅拜賀曰夫三刀為州而今見四刀為益一也明府其臨益州乎濬後果為益州刺史類聚六十又七十九書鈔一百二十三御覽二百五十四又三百四十五案此引作武紀
+  hash: sha256:62a7bfa1850ed07c61482d99110363de054b952177b9200d828edbd2af84bc03
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0333_CHANT_001-1a.1-h}
+metadata:
+  title: 陸機晉紀一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0333.xml
+hash: sha256:bea56330327a1dd94337852bbd0e18d78d4c2dcf57b2562ba6fd504a346dc5ee

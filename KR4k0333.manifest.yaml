@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0333/v1
+canonical_location: https://kanripo.org/bkk/KR4k0333/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 陸機晉紀一卷
+  identifiers:
+    krp: KR4k0333
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0333.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0333_001.yaml, hash: 'sha256:85a570cf70501315d5a7caec79d3680cd5222063a9120f55e1d4a4715fd2a398'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0333_001.markers.yaml, hash: 'sha256:6840ad0d43fc6643dce7c33622fd2adfb0749df664a8ee0068cbf64d8bff5e63'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0333_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 178
+  label: 陸機晉紀
+  type: section
+  level: 1
+hash: sha256:58990dfa9df8f5336d3459f3725bc5c6eedd72c4c29afc5030d40a4e50de38ca
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
