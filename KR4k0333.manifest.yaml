@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0333_001.yaml, hash: 'sha256:85a570cf70501315d5a7caec79d3680cd5222063a9120f55e1d4a4715fd2a398'}
+  - {seq: 1, filename: KR4k0333_001.yaml, hash: 'sha256:bea56330327a1dd94337852bbd0e18d78d4c2dcf57b2562ba6fd504a346dc5ee'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0333_001.markers.yaml, hash: 'sha256:6840ad0d43fc6643dce7c33622fd2adfb0749df664a8ee0068cbf64d8bff5e63'}
+  - {seq: 1, role: markers, filename: assets/KR4k0333_001.markers.yaml, hash: 'sha256:ca795b7127a9e72404b2c6222ae05230f744bca64faaea875835453cc1389132'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 陸機晉紀
   type: section
   level: 1
-hash: sha256:58990dfa9df8f5336d3459f3725bc5c6eedd72c4c29afc5030d40a4e50de38ca
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e87098b077f559c9c8bd22c164205a7e486d0f31c0f68fa13abe443de6f0c9db
