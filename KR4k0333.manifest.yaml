@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0333/v1
 canonical_location: https://kanripo.org/bkk/KR4k0333/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 陸機晉紀一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0333_001.yaml, hash: 'sha256:bea56330327a1dd94337852bbd0e18d78d4c2dcf57b2562ba6fd504a346dc5ee'}
+  - {seq: 1, filename: KR4k0333_001.yaml, hash: 'sha256:85a570cf70501315d5a7caec79d3680cd5222063a9120f55e1d4a4715fd2a398'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0333_001.markers.yaml, hash: 'sha256:ca795b7127a9e72404b2c6222ae05230f744bca64faaea875835453cc1389132'}
+  - {seq: 1, role: markers, filename: assets/KR4k0333_001.markers.yaml, hash: 'sha256:1b8c71d6ca11ca88a1233184699896c007d12d02888ad9a0af79e4c494ead649'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 陸機晉紀
   type: section
   level: 1
-hash: sha256:e87098b077f559c9c8bd22c164205a7e486d0f31c0f68fa13abe443de6f0c9db
+hash: sha256:6472ee5294e82b72037672851b7aa31c8eb3fc93301085c5059b148bde93cb6e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
